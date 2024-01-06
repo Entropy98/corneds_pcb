@@ -1,0 +1,7 @@
+*/corneds-backups/*
+*.gbr
+*.zip
+*.gbrjob
+*.drl
+*/build/*
+.cache
