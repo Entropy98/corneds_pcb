@@ -1,0 +1,277 @@
+Archive:  db/36660.zip
+  inflating: db/36660/Extension_CN.SchDoc  
+  inflating: db/36660/MB1355C.PrjPcb  
+  inflating: db/36660/MCU.SchDoc     
+  inflating: db/36660/Nucleo_Dory_QFN68.PcbDoc  
+  inflating: db/36660/Power_managment.SchDoc  
+  inflating: db/36660/Project_Overview.SchDoc  
+  inflating: db/36660/RF.SchDoc      
+  inflating: db/36660/ST_LINK_V2-1.SCHDOC  
+  inflating: db/36660/readme.txt     
+Loading Extension_CN.SchDoc
+
+Loading MCU.SchDoc
+
+Loading Power_managment.SchDoc
+
+Loading Project_Overview.SchDoc
+
+Loading RF.SchDoc
+
+Loading ST_LINK_V2-1.SCHDOC
+
+Loading Nucleo_Dory_QFN68.PcbDoc
+
+Done.
+Handling Nucleo_Dory_QFN68-PcbDoc/Root Entry/Board6/Data.dat
+ASCII-Nucleo_Dory_QFN68-PcbDoc.PcbDoc exists?
+Writing to Nucleo_Dory_QFN68-PcbDoc/Root Entry/Board6/Data.dat.txt
+Writing to Nucleo_Dory_QFN68-PcbDoc/Root Entry/Models/Data.dat.txt
+Writing to Nucleo_Dory_QFN68-PcbDoc/Root Entry/UniqueIDPrimitiveInformation/Data.dat.txt
+Writing to Nucleo_Dory_QFN68-PcbDoc/Root Entry/Rules6/Data.dat.txt
+Writing to Nucleo_Dory_QFN68-PcbDoc/Root Entry/Classes6/Data.dat.txt
+Writing PCB to Nucleo_Dory_QFN68-PcbDoc.kicad_pcb
+Writing to Nucleo_Dory_QFN68-PcbDoc/Root Entry/Nets6/Data.dat.txt
+Writing to Nucleo_Dory_QFN68-PcbDoc/Root Entry/Components6/Data.dat.txt
+Pads6...
+Writing to Nucleo_Dory_QFN68-PcbDoc/Root Entry/ComponentBodies6/Data.dat.txt
+NOT FOUND: sot236.wrl
+NOT FOUND: SOT23-5-2.wrl
+NOT FOUND: User Library-3225-1.wrl
+NOT FOUND: SOT353-1.wrl
+NOT FOUND: TSSOP-20-2.wrl
+NOT FOUND: AVX_Capacitor Tantale_ TAJB.wrl
+NOT FOUND: SOT223.wrl
+NOT FOUND: LQFP48_7X7_P050.wrl
+NOT FOUND: sot23-3.wrl
+NOT FOUND: 1x2x2.54 Pin Header TH  V.wrl
+NOT FOUND: Jumper 2_54mm.wrl
+NOT FOUND: Shield clip s0951-46.wrl
+NOT FOUND: pin_header_awl254-dg-g16d.wrl
+NOT FOUND: 1x10_female_header_TH_2.54.wrl
+NOT FOUND: 1x8_female_header_TH_2.54.wrl
+NOT FOUND: Samtec-MTSW-119-09-F-D-230.wrl
+NOT FOUND: 1x6_female_header_TH_2.54.wrl
+NOT FOUND: pin_header_awl254-dg-g08d.wrl
+NOT FOUND: MOLEX_105017-0001.wrl
+NOT FOUND: NX2016SA(NDK).wrl
+NOT FOUND: CR2032_Holder.wrl
+NOT FOUND: shield 17x17x3_version1.wrl
+Writing to Nucleo_Dory_QFN68-PcbDoc/Root Entry/ShapeBasedComponentBodies6/Data.dat.txt
+Writing to Nucleo_Dory_QFN68-PcbDoc/Root Entry/Components6/Data.dat.txt
+Writing to Nucleo_Dory_QFN68-PcbDoc/Root Entry/Arcs6/Data.dat.txt
+Writing to Nucleo_Dory_QFN68-PcbDoc/Root Entry/Vias6/Data.dat.txt
+Writing to Nucleo_Dory_QFN68-PcbDoc/Root Entry/Polygons6/Data.dat.txt
+Writing to Nucleo_Dory_QFN68-PcbDoc/Root Entry/Tracks6/Data.dat.txt
+Writing to Nucleo_Dory_QFN68-PcbDoc/Root Entry/Dimensions6/Data.dat.txt
+Writing to Nucleo_Dory_QFN68-PcbDoc/Root Entry/FileVersionInfo/Data.dat.txt
+Writing to Nucleo_Dory_QFN68-PcbDoc/Root Entry/Fills6/Data.dat.txt
+Writing to Nucleo_Dory_QFN68-PcbDoc/Root Entry/Regions6/Data.dat.txt
+Overflow: verts:19551 ver:95 vpos:1524 length:1524 !
+Overflow: verts:600 ver:88 vpos:1412 length:1412 !
+Overflow: verts:24375 ver:55 vpos:884 length:884 !
+Overflow: verts:2354 ver:50 vpos:804 length:804 !
+Overflow: verts:363 ver:107 vpos:1716 length:1716 !
+Texts6...
+Handling Extension_CN-SchDoc/Root Entry/FileHeader.dat
+ERROR:  not found!
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+Handling MCU-SchDoc/Root Entry/FileHeader.dat
+ERROR:  not found!
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+Handling Nucleo_Dory_QFN68-PcbDoc/Root Entry/FileHeader.dat
+Handling Power_managment-SchDoc/Root Entry/FileHeader.dat
+ERROR:  not found!
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+Handling Project_Overview-SchDoc/Root Entry/FileHeader.dat
+ERROR:  not found!
+ERROR: MB1355C Top view without Shield.JPG not found!
+ERROR: MB1355C Top view with Shield.JPG not found!
+ERROR: Bottom View.JPG not found!
+Handling RF-SchDoc/Root Entry/FileHeader.dat
+ERROR:  not found!
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Bezier paths are not supported in KiCad - creating a basic polyline through the control points instead
+WARNING: Bezier paths are not supported in KiCad - creating a basic polyline through the control points instead
+WARNING: Bezier paths are not supported in KiCad - creating a basic polyline through the control points instead
+WARNING: Bezier paths are not supported in KiCad - creating a basic polyline through the control points instead
+WARNING: Bezier paths are not supported in KiCad - creating a basic polyline through the control points instead
+WARNING: Bezier paths are not supported in KiCad - creating a basic polyline through the control points instead
+Handling ST_LINK_V2-1-SCHDOC/Root Entry/FileHeader.dat
+ERROR:  not found!
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+Handling Extension_CN.SchDoc
+Handling MCU.SchDoc
+Handling Power_managment.SchDoc
+Handling Project_Overview.SchDoc
+Handling RF.SchDoc
+Handling ST_LINK_V2-1.SCHDOC
