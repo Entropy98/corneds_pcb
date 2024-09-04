@@ -239,7 +239,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "power_board.kicad_pro",
+    "filename": "control_board.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -383,15 +383,15 @@
   },
   "sheets": [
     [
-      "e1d68063-f971-488f-82e1-71c760b8d683",
+      "765a8bd0-01ed-4bd6-922e-680c17625fb8",
       "Root"
     ],
     [
-      "779909f5-a816-49d7-9547-ad26c11ad6bd",
-      "pmic"
+      "1fb97aa9-5610-40e3-a9ba-4573067dc6f9",
+      "MCU"
     ],
     [
-      "9f96855c-a92a-495d-ae1c-4ee80ae3b461",
+      "b9d4cfb5-d0f3-4ac5-8b34-05c7ad3c0774",
       "io"
     ]
   ],

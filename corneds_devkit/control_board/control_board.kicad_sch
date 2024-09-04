@@ -2,12 +2,12 @@
 	(version 20231120)
 	(generator "eeschema")
 	(generator_version "8.0")
-	(uuid "e1d68063-f971-488f-82e1-71c760b8d683")
+	(uuid "765a8bd0-01ed-4bd6-922e-680c17625fb8")
 	(paper "A4")
 	(lib_symbols)
 	(sheet
-		(at 39.37 33.02)
-		(size 54.61 36.83)
+		(at 64.77 39.37)
+		(size 42.545 38.735)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -16,9 +16,9 @@
 		(fill
 			(color 0 0 0 0.0000)
 		)
-		(uuid "779909f5-a816-49d7-9547-ad26c11ad6bd")
-		(property "Sheetname" "pmic"
-			(at 39.37 32.3084 0)
+		(uuid "1fb97aa9-5610-40e3-a9ba-4573067dc6f9")
+		(property "Sheetname" "MCU"
+			(at 64.77 38.6584 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26,8 +26,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "pmic.kicad_sch"
-			(at 39.37 70.4346 0)
+		(property "Sheetfile" "mcu.kicad_sch"
+			(at 64.77 78.6896 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36,16 +36,16 @@
 			)
 		)
 		(instances
-			(project "power_board"
-				(path "/e1d68063-f971-488f-82e1-71c760b8d683"
+			(project "control_board"
+				(path "/765a8bd0-01ed-4bd6-922e-680c17625fb8"
 					(page "2")
 				)
 			)
 		)
 	)
 	(sheet
-		(at 109.22 33.02)
-		(size 16.51 36.83)
+		(at 119.38 39.37)
+		(size 19.05 38.1)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -54,9 +54,9 @@
 		(fill
 			(color 0 0 0 0.0000)
 		)
-		(uuid "9f96855c-a92a-495d-ae1c-4ee80ae3b461")
+		(uuid "b9d4cfb5-d0f3-4ac5-8b34-05c7ad3c0774")
 		(property "Sheetname" "io"
-			(at 109.22 32.3084 0)
+			(at 119.38 38.6584 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -65,7 +65,7 @@
 			)
 		)
 		(property "Sheetfile" "io.kicad_sch"
-			(at 109.22 70.4346 0)
+			(at 119.38 78.0546 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -74,8 +74,8 @@
 			)
 		)
 		(instances
-			(project "power_board"
-				(path "/e1d68063-f971-488f-82e1-71c760b8d683"
+			(project "control_board"
+				(path "/765a8bd0-01ed-4bd6-922e-680c17625fb8"
 					(page "3")
 				)
 			)
