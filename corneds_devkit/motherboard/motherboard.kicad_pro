@@ -239,7 +239,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "corneds_motherboard.kicad_pro",
+    "filename": "motherboard.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -383,36 +383,20 @@
   },
   "sheets": [
     [
-      "50e28e7c-c8ea-42c4-a49f-b41c6d891917",
+      "e62bdc8c-b7a7-4fbc-b4c4-d3d1c2fc1d9d",
       "Root"
     ],
     [
-      "322901d2-fb4d-4250-b485-c6b9d427c847",
-      "Nucleo_left"
+      "19caa14a-ff19-4e31-a632-f8e6f9c8463d",
+      "io"
     ],
     [
-      "b97ccbf8-fd02-4b9f-8f37-68c7cf98cf2b",
-      "Keys_left"
+      "059e1c33-aacf-4b81-b7d7-ea4af84b9d98",
+      "power"
     ],
     [
-      "a40f988b-af8c-4e4c-a95b-ecfd9ae8d2c5",
-      "Nucleo_right"
-    ],
-    [
-      "e407f9a0-fbd2-4ae2-8f95-4a3ce41516de",
-      "Keys_right"
-    ],
-    [
-      "c1e27474-748c-4a06-b848-c908d063f47f",
-      "Mouse_right"
-    ],
-    [
-      "960f729c-634d-4a36-bb0d-a05b9ef3520d",
-      "Mouse_left"
-    ],
-    [
-      "637f48c3-eb71-48e5-b017-f85b4217f5cb",
-      "Power"
+      "9db9def9-5944-42f5-af5f-0f9ead8841b1",
+      "control"
     ]
   ],
   "text_variables": {}
