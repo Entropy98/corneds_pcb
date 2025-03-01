@@ -76,7 +76,83 @@
 		(instances
 			(project "io_board"
 				(path "/244b6d6b-132d-4d50-ae86-e41103b29008"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 238.76 88.9)
+		(size 22.86 13.97)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7cca1593-999d-4ccf-b76a-5f2d8940be69")
+		(property "Sheetname" "right_ctrl"
+			(at 238.76 88.1884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "right_ctrl.kicad_sch"
+			(at 238.76 103.4546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "io_board"
+				(path "/244b6d6b-132d-4d50-ae86-e41103b29008"
 					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 77.47 90.17)
+		(size 21.59 12.7)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "aa24d198-d69c-43fd-9b48-feffdb79bb14")
+		(property "Sheetname" "left_ctrl"
+			(at 77.47 89.4584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "left_ctrl.kicad_sch"
+			(at 77.47 103.4546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "io_board"
+				(path "/244b6d6b-132d-4d50-ae86-e41103b29008"
+					(page "3")
 				)
 			)
 		)
@@ -114,7 +190,7 @@
 		(instances
 			(project "io_board"
 				(path "/244b6d6b-132d-4d50-ae86-e41103b29008"
-					(page "3")
+					(page "5")
 				)
 			)
 		)
@@ -152,7 +228,7 @@
 		(instances
 			(project "io_board"
 				(path "/244b6d6b-132d-4d50-ae86-e41103b29008"
-					(page "5")
+					(page "7")
 				)
 			)
 		)

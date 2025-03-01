@@ -285,6 +285,7 @@
   },
   "schematic": {
     "annotate_start_num": 0,
+    "bom_export_filename": "",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
@@ -391,12 +392,20 @@
       "left_keys"
     ],
     [
-      "bd07eb4f-2b61-4923-a58a-bccd1af7bd24",
-      "right_keys"
+      "aa24d198-d69c-43fd-9b48-feffdb79bb14",
+      "left_ctrl"
     ],
     [
       "f7f8749d-d618-4fa3-a34a-defbc416e54b",
       "left_mouse"
+    ],
+    [
+      "bd07eb4f-2b61-4923-a58a-bccd1af7bd24",
+      "right_keys"
+    ],
+    [
+      "7cca1593-999d-4ccf-b76a-5f2d8940be69",
+      "right_ctrl"
     ],
     [
       "d0a6750f-d35a-4f18-ad73-a13ad9a077bd",
