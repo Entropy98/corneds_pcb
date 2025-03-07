@@ -2576,7 +2576,7 @@
 			)
 		)
 	)
-	(global_label "VDDL"
+	(global_label "VDD_3V3L"
 		(shape input)
 		(at 63.5 26.67 90)
 		(fields_autoplaced yes)
@@ -2588,7 +2588,7 @@
 		)
 		(uuid "25d9bac6-9252-4399-85d0-f2249a466740")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 63.5 19.0281 90)
+			(at 63.5 14.5529 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2888,7 +2888,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "key-switches:SW_Gateron_LowProfile_HotSwap_THT"
 			(at 201.93 95.25 0)
 			(effects
 				(font
@@ -2956,7 +2956,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "key-switches:SW_Gateron_LowProfile_HotSwap_THT"
 			(at 229.87 30.48 0)
 			(effects
 				(font
@@ -3024,7 +3024,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "key-switches:SW_Gateron_LowProfile_HotSwap_THT"
 			(at 173.99 127 0)
 			(effects
 				(font
@@ -3238,7 +3238,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "key-switches:SW_Gateron_LowProfile_HotSwap_THT"
 			(at 173.99 62.23 0)
 			(effects
 				(font
@@ -3306,7 +3306,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "key-switches:SW_Gateron_LowProfile_HotSwap_THT"
 			(at 118.11 62.23 0)
 			(effects
 				(font
@@ -3450,7 +3450,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "key-switches:SW_Gateron_LowProfile_HotSwap_THT"
 			(at 173.99 95.25 0)
 			(effects
 				(font
@@ -3898,7 +3898,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "key-switches:SW_Gateron_LowProfile_HotSwap_THT"
 			(at 229.87 95.25 0)
 			(effects
 				(font
@@ -4270,7 +4270,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "key-switches:SW_Gateron_LowProfile_HotSwap_THT"
 			(at 90.17 62.23 0)
 			(effects
 				(font
@@ -4338,7 +4338,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "key-switches:SW_Gateron_LowProfile_HotSwap_THT"
 			(at 90.17 30.48 0)
 			(effects
 				(font
@@ -4482,7 +4482,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "key-switches:SW_Gateron_LowProfile_HotSwap_THT"
 			(at 229.87 62.23 0)
 			(effects
 				(font
@@ -4550,7 +4550,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "key-switches:SW_Gateron_LowProfile_HotSwap_THT"
 			(at 173.99 30.48 0)
 			(effects
 				(font
@@ -4770,7 +4770,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "key-switches:SW_Gateron_LowProfile_HotSwap_THT"
 			(at 201.93 30.48 0)
 			(effects
 				(font
@@ -5142,7 +5142,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "key-switches:SW_Gateron_LowProfile_HotSwap_THT"
 			(at 201.93 62.23 0)
 			(effects
 				(font
@@ -5210,7 +5210,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "key-switches:SW_Gateron_LowProfile_HotSwap_THT"
 			(at 146.05 95.25 0)
 			(effects
 				(font
@@ -5278,7 +5278,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "key-switches:SW_Gateron_LowProfile_HotSwap_THT"
 			(at 201.93 127 0)
 			(effects
 				(font
@@ -5346,7 +5346,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "key-switches:SW_Gateron_LowProfile_HotSwap_THT"
 			(at 118.11 95.25 0)
 			(effects
 				(font
@@ -5414,7 +5414,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "key-switches:SW_Gateron_LowProfile_HotSwap_THT"
 			(at 90.17 95.25 0)
 			(effects
 				(font
@@ -5558,7 +5558,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "key-switches:SW_Gateron_LowProfile_HotSwap_THT"
 			(at 118.11 30.48 0)
 			(effects
 				(font
@@ -5778,7 +5778,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "key-switches:SW_Gateron_LowProfile_HotSwap_THT"
 			(at 146.05 62.23 0)
 			(effects
 				(font
@@ -5846,7 +5846,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "key-switches:SW_Gateron_LowProfile_HotSwap_THT"
 			(at 146.05 30.48 0)
 			(effects
 				(font
@@ -5914,7 +5914,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "key-switches:SW_Gateron_LowProfile_HotSwap_THT"
 			(at 229.87 127 0)
 			(effects
 				(font

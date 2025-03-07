@@ -771,7 +771,7 @@
 			)
 		)
 	)
-	(global_label "VDDL"
+	(global_label "VDD_3V3L"
 		(shape input)
 		(at 147.32 58.42 90)
 		(fields_autoplaced yes)
@@ -783,7 +783,7 @@
 		)
 		(uuid "968bd584-1923-4310-94fc-c3a6adcc993c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 147.32 50.7781 90)
+			(at 147.32 46.3029 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -939,7 +939,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "key-switches:SW_Gateron_LowProfile_HotSwap_THT"
 			(at 161.29 55.88 0)
 			(effects
 				(font
