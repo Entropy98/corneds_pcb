@@ -406,15 +406,15 @@
 			(in_bom yes)
 			(on_board yes)
 			(property "Reference" "U"
-				(at 1.778 7.874 0)
+				(at -6.096 1.016 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
 				)
 			)
-			(property "Value" "COM-09426"
-				(at 2.794 6.096 0)
+			(property "Value" ""
+				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -422,7 +422,7 @@
 				)
 			)
 			(property "Footprint" ""
-				(at -2.54 0 0)
+				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -431,7 +431,7 @@
 				)
 			)
 			(property "Datasheet" ""
-				(at -2.54 0 0)
+				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -439,8 +439,8 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "https://www.sparkfun.com/products/9426"
-				(at -2.54 0 0)
+			(property "Description" ""
+				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -450,8 +450,8 @@
 			)
 			(symbol "COM-09426_1_1"
 				(rectangle
-					(start -6.35 5.08)
-					(end 5.08 -5.08)
+					(start -5.08 5.08)
+					(end 7.62 -5.08)
 					(stroke
 						(width 0)
 						(type default)
@@ -461,7 +461,7 @@
 					)
 				)
 				(pin output line
-					(at 7.62 2.54 180)
+					(at 10.16 2.54 180)
 					(length 2.54)
 					(name "x-axis"
 						(effects
@@ -479,7 +479,7 @@
 					)
 				)
 				(pin power_in line
-					(at -3.81 7.62 270)
+					(at -2.54 7.62 270)
 					(length 2.54)
 					(name "VDD"
 						(effects
@@ -497,7 +497,7 @@
 					)
 				)
 				(pin output line
-					(at 7.62 -2.54 180)
+					(at 10.16 -2.54 180)
 					(length 2.54)
 					(name "y-axis"
 						(effects
@@ -515,7 +515,7 @@
 					)
 				)
 				(pin power_in line
-					(at -3.81 -7.62 90)
+					(at -2.54 -7.62 90)
 					(length 2.54)
 					(name "GND"
 						(effects
@@ -563,7 +563,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 86.36) (xy 128.27 86.36)
+			(xy 127 86.36) (xy 130.81 86.36)
 		)
 		(stroke
 			(width 0)
@@ -603,7 +603,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 81.28) (xy 128.27 81.28)
+			(xy 127 81.28) (xy 130.81 81.28)
 		)
 		(stroke
 			(width 0)
@@ -707,7 +707,7 @@
 	)
 	(global_label "mouse_y"
 		(shape input)
-		(at 128.27 86.36 0)
+		(at 130.81 86.36 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -717,7 +717,7 @@
 		)
 		(uuid "8a6b7564-3b80-4e86-9a52-904c682d4b1d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 139.2984 86.36 0)
+			(at 141.8384 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -793,7 +793,7 @@
 			)
 		)
 	)
-	(global_label "VDD_3V3R"
+	(global_label "VDD_5VR"
 		(shape input)
 		(at 144.78 80.01 90)
 		(fields_autoplaced yes)
@@ -805,7 +805,7 @@
 		)
 		(uuid "e17b3c0c-4f51-49ef-b552-4b3c9e01d548")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 144.78 67.651 90)
+			(at 144.78 68.8605 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -817,7 +817,7 @@
 	)
 	(global_label "mouse_x"
 		(shape input)
-		(at 128.27 81.28 0)
+		(at 130.81 81.28 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -827,7 +827,7 @@
 		)
 		(uuid "fa8a23bd-cd7b-4bad-8b74-7b62fb474197")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 139.3589 81.28 0)
+			(at 141.8989 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -855,7 +855,7 @@
 				)
 			)
 		)
-		(property "Value" "APA-106-F5"
+		(property "Value" "SK68XX-SIDE"
 			(at 176.53 86.3914 0)
 			(effects
 				(font
@@ -863,7 +863,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm-4_RGB"
+		(property "Footprint" "entropy:SK68XX-SIDE"
 			(at 165.1 100.33 0)
 			(effects
 				(font
@@ -873,7 +873,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://cdn.sparkfun.com/datasheets/Components/LED/COM-12877.pdf"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/adafruit-industries-llc/4691/13170955"
 			(at 166.37 102.235 0)
 			(effects
 				(font
@@ -915,7 +915,7 @@
 	)
 	(symbol
 		(lib_id "entropy:COM-09426")
-		(at 118.11 83.82 0)
+		(at 116.84 83.82 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -924,7 +924,7 @@
 		(fields_autoplaced yes)
 		(uuid "51a33741-5e7e-466b-8fc1-6b25d8a2287f")
 		(property "Reference" "U2"
-			(at 110.49 82.5499 0)
+			(at 109.22 82.5499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -933,7 +933,7 @@
 			)
 		)
 		(property "Value" "COM-09426"
-			(at 110.49 85.0899 0)
+			(at 109.22 85.0899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -941,8 +941,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 115.57 83.82 0)
+		(property "Footprint" "entropy:COM-09426"
+			(at 114.3 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -951,7 +951,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 115.57 83.82 0)
+			(at 114.3 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -960,7 +960,7 @@
 			)
 		)
 		(property "Description" "https://www.sparkfun.com/products/9426"
-			(at 115.57 83.82 0)
+			(at 114.3 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)

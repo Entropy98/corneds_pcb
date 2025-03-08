@@ -5,150 +5,6 @@
 	(uuid "f3c8ecd7-915d-4fb5-bda1-1e57c4af7f8c")
 	(paper "A4")
 	(lib_symbols
-		(symbol "Jumper:Jumper_2_Bridged"
-			(pin_names
-				(offset 0) hide)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "JP"
-				(at 0 1.905 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "Jumper_2_Bridged"
-				(at 0 -2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Jumper, 2-pole, closed/bridged"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "Jumper SPST"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "Jumper* TestPoint*2Pads* TestPoint*Bridge*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "Jumper_2_Bridged_0_0"
-				(circle
-					(center -2.032 0)
-					(radius 0.508)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 2.032 0)
-					(radius 0.508)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "Jumper_2_Bridged_0_1"
-				(arc
-					(start 1.524 0.254)
-					(mid 0 0.762)
-					(end -1.524 0.254)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "Jumper_2_Bridged_1_1"
-				(pin passive line
-					(at -5.08 0 0)
-					(length 2.54)
-					(name "A"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 0 180)
-					(length 2.54)
-					(name "B"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
 		(symbol "LED:APA-106-F5"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -565,6 +421,12 @@
 		(uuid "074cd377-7356-4d33-a38e-6ceb592ee924")
 	)
 	(junction
+		(at 201.93 135.89)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0771ebb5-738f-4fb9-80ba-50ad12096aea")
+	)
+	(junction
 		(at 127 35.56)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -647,6 +509,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3e665a9c-c5fa-4093-9ba0-a176d46e3560")
+	)
+	(junction
+		(at 173.99 135.89)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "42e94a9a-aac5-44c1-9c7e-bf8e9e552976")
 	)
 	(junction
 		(at 127 67.31)
@@ -911,6 +779,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d54cb830-2d7f-4e1a-ab01-7b5a5c069559")
+	)
+	(junction
+		(at 63.5 104.14)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d7b80240-384c-4e92-96ee-b3450b16fc8a")
 	)
 	(junction
 		(at 196.85 58.42)
@@ -1186,6 +1060,16 @@
 	)
 	(wire
 		(pts
+			(xy 173.99 135.89) (xy 173.99 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "207668f6-6be6-4f77-b889-232749315540")
+	)
+	(wire
+		(pts
 			(xy 207.01 35.56) (xy 210.82 35.56)
 		)
 		(stroke
@@ -1306,7 +1190,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 36.83) (xy 63.5 39.37)
+			(xy 63.5 26.67) (xy 63.5 39.37)
 		)
 		(stroke
 			(width 0)
@@ -1363,6 +1247,16 @@
 			(type default)
 		)
 		(uuid "3aefff04-df03-404f-8eaf-c8fa788d5c74")
+	)
+	(wire
+		(pts
+			(xy 201.93 135.89) (xy 229.87 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3ede80a1-89a0-4649-9ca1-ad65fdcae38c")
 	)
 	(wire
 		(pts
@@ -1436,6 +1330,16 @@
 	)
 	(wire
 		(pts
+			(xy 201.93 135.89) (xy 201.93 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4b5110ac-8eb4-44b0-a6ff-299726ae75ce")
+	)
+	(wire
+		(pts
 			(xy 250.19 77.47) (xy 237.49 77.47)
 		)
 		(stroke
@@ -1443,6 +1347,16 @@
 			(type default)
 		)
 		(uuid "4d96da39-7c73-4a9d-8b16-f4434adfd010")
+	)
+	(wire
+		(pts
+			(xy 229.87 135.89) (xy 229.87 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4ea4e307-1f7a-4408-b7b8-982944d7a969")
 	)
 	(wire
 		(pts
@@ -1583,16 +1497,6 @@
 			(type default)
 		)
 		(uuid "61fc0e52-66e4-47b3-88bf-1d3797a726d9")
-	)
-	(wire
-		(pts
-			(xy 173.99 137.16) (xy 168.91 137.16)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "62646b75-ff33-418b-82d6-f64326538b7e")
 	)
 	(wire
 		(pts
@@ -1753,16 +1657,6 @@
 			(type default)
 		)
 		(uuid "8237525c-bcad-4912-b696-c374c523c2ee")
-	)
-	(wire
-		(pts
-			(xy 201.93 137.16) (xy 196.85 137.16)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "829c36ad-377c-48eb-a55c-17ae18bd19ce")
 	)
 	(wire
 		(pts
@@ -2006,6 +1900,16 @@
 	)
 	(wire
 		(pts
+			(xy 63.5 135.89) (xy 63.5 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "adf886da-a257-4d6b-a709-4a160e8ad54e")
+	)
+	(wire
+		(pts
 			(xy 229.87 152.4) (xy 255.27 152.4)
 		)
 		(stroke
@@ -2083,6 +1987,16 @@
 			(type default)
 		)
 		(uuid "be1d6252-f8f3-447b-b12b-ba735fc99c90")
+	)
+	(wire
+		(pts
+			(xy 173.99 135.89) (xy 201.93 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bff2a7e1-53ea-40b1-a2d9-52b22ab35420")
 	)
 	(wire
 		(pts
@@ -2466,16 +2380,6 @@
 	)
 	(wire
 		(pts
-			(xy 229.87 137.16) (xy 224.79 137.16)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f4f8a6cc-c2df-4c72-a7b7-94980ff18f35")
-	)
-	(wire
-		(pts
 			(xy 118.11 119.38) (xy 146.05 119.38)
 		)
 		(stroke
@@ -2546,6 +2450,16 @@
 	)
 	(wire
 		(pts
+			(xy 63.5 135.89) (xy 173.99 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ff35e778-02ed-4863-94c0-0ed769129b72")
+	)
+	(wire
+		(pts
 			(xy 99.06 67.31) (xy 99.06 35.56)
 		)
 		(stroke
@@ -2576,7 +2490,7 @@
 			)
 		)
 	)
-	(global_label "VDD_3V3L"
+	(global_label "VDD_5VL"
 		(shape input)
 		(at 63.5 26.67 90)
 		(fields_autoplaced yes)
@@ -2588,7 +2502,7 @@
 		)
 		(uuid "25d9bac6-9252-4399-85d0-f2249a466740")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 63.5 14.5529 90)
+			(at 63.5 15.7624 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3067,76 +2981,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Jumper:Jumper_2_Bridged")
-		(at 63.5 31.75 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1a4a7ce3-e2bd-485b-b115-91a210ea8cc9")
-		(property "Reference" "JP1"
-			(at 64.77 30.4799 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "LED on/off"
-			(at 64.77 33.0199 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 63.5 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 63.5 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Jumper, 2-pole, closed/bridged"
-			(at 63.5 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "bf51684d-5367-48d1-bb37-46d92ee5ae21")
-		)
-		(pin "2"
-			(uuid "4a2b38a6-f975-4cd8-8301-ec5252a0cda5")
-		)
-		(instances
-			(project "io_board"
-				(path "/244b6d6b-132d-4d50-ae86-e41103b29008/035ff8de-23b0-4e40-a4d6-13420d9ceca3"
-					(reference "JP1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "LED:APA-106-F5")
 		(at 90.17 111.76 0)
 		(unit 1)
@@ -3154,7 +2998,7 @@
 				)
 			)
 		)
-		(property "Value" "APA-106-F5"
+		(property "Value" "SK68XX-SIDE"
 			(at 102.87 105.4414 0)
 			(effects
 				(font
@@ -3162,7 +3006,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm-4_RGB"
+		(property "Footprint" "entropy:SK68XX-SIDE"
 			(at 91.44 119.38 0)
 			(effects
 				(font
@@ -3172,7 +3016,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://cdn.sparkfun.com/datasheets/Components/LED/COM-12877.pdf"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/adafruit-industries-llc/4691/13170955"
 			(at 92.71 121.285 0)
 			(effects
 				(font
@@ -3366,7 +3210,7 @@
 				)
 			)
 		)
-		(property "Value" "APA-106-F5"
+		(property "Value" "SK68XX-SIDE"
 			(at 102.87 40.6714 0)
 			(effects
 				(font
@@ -3374,7 +3218,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm-4_RGB"
+		(property "Footprint" "entropy:SK68XX-SIDE"
 			(at 91.44 54.61 0)
 			(effects
 				(font
@@ -3384,7 +3228,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://cdn.sparkfun.com/datasheets/Components/LED/COM-12877.pdf"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/adafruit-industries-llc/4691/13170955"
 			(at 92.71 56.515 0)
 			(effects
 				(font
@@ -3510,7 +3354,7 @@
 				)
 			)
 		)
-		(property "Value" "APA-106-F5"
+		(property "Value" "SK68XX-SIDE"
 			(at 186.69 40.6714 0)
 			(effects
 				(font
@@ -3518,7 +3362,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm-4_RGB"
+		(property "Footprint" "entropy:SK68XX-SIDE"
 			(at 175.26 54.61 0)
 			(effects
 				(font
@@ -3528,7 +3372,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://cdn.sparkfun.com/datasheets/Components/LED/COM-12877.pdf"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/adafruit-industries-llc/4691/13170955"
 			(at 176.53 56.515 0)
 			(effects
 				(font
@@ -3586,7 +3430,7 @@
 				)
 			)
 		)
-		(property "Value" "APA-106-F5"
+		(property "Value" "SK68XX-SIDE"
 			(at 214.63 105.4414 0)
 			(effects
 				(font
@@ -3594,7 +3438,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm-4_RGB"
+		(property "Footprint" "entropy:SK68XX-SIDE"
 			(at 203.2 119.38 0)
 			(effects
 				(font
@@ -3604,7 +3448,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://cdn.sparkfun.com/datasheets/Components/LED/COM-12877.pdf"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/adafruit-industries-llc/4691/13170955"
 			(at 204.47 121.285 0)
 			(effects
 				(font
@@ -3662,7 +3506,7 @@
 				)
 			)
 		)
-		(property "Value" "APA-106-F5"
+		(property "Value" "SK68XX-SIDE"
 			(at 189.23 138.4614 0)
 			(effects
 				(font
@@ -3670,7 +3514,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm-4_RGB"
+		(property "Footprint" "entropy:SK68XX-SIDE"
 			(at 200.66 152.4 0)
 			(effects
 				(font
@@ -3680,7 +3524,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://cdn.sparkfun.com/datasheets/Components/LED/COM-12877.pdf"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/adafruit-industries-llc/4691/13170955"
 			(at 199.39 154.305 0)
 			(effects
 				(font
@@ -3738,7 +3582,7 @@
 				)
 			)
 		)
-		(property "Value" "APA-106-F5"
+		(property "Value" "SK68XX-SIDE"
 			(at 130.81 105.4414 0)
 			(effects
 				(font
@@ -3746,7 +3590,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm-4_RGB"
+		(property "Footprint" "entropy:SK68XX-SIDE"
 			(at 119.38 119.38 0)
 			(effects
 				(font
@@ -3756,7 +3600,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://cdn.sparkfun.com/datasheets/Components/LED/COM-12877.pdf"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/adafruit-industries-llc/4691/13170955"
 			(at 120.65 121.285 0)
 			(effects
 				(font
@@ -3814,7 +3658,7 @@
 				)
 			)
 		)
-		(property "Value" "APA-106-F5"
+		(property "Value" "SK68XX-SIDE"
 			(at 242.57 40.6714 0)
 			(effects
 				(font
@@ -3822,7 +3666,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm-4_RGB"
+		(property "Footprint" "entropy:SK68XX-SIDE"
 			(at 231.14 54.61 0)
 			(effects
 				(font
@@ -3832,7 +3676,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://cdn.sparkfun.com/datasheets/Components/LED/COM-12877.pdf"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/adafruit-industries-llc/4691/13170955"
 			(at 232.41 56.515 0)
 			(effects
 				(font
@@ -3958,7 +3802,7 @@
 				)
 			)
 		)
-		(property "Value" "APA-106-F5"
+		(property "Value" "SK68XX-SIDE"
 			(at 158.75 105.4414 0)
 			(effects
 				(font
@@ -3966,7 +3810,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm-4_RGB"
+		(property "Footprint" "entropy:SK68XX-SIDE"
 			(at 147.32 119.38 0)
 			(effects
 				(font
@@ -3976,7 +3820,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://cdn.sparkfun.com/datasheets/Components/LED/COM-12877.pdf"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/adafruit-industries-llc/4691/13170955"
 			(at 148.59 121.285 0)
 			(effects
 				(font
@@ -4034,7 +3878,7 @@
 				)
 			)
 		)
-		(property "Value" "APA-106-F5"
+		(property "Value" "SK68XX-SIDE"
 			(at 189.23 73.6914 0)
 			(effects
 				(font
@@ -4042,7 +3886,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm-4_RGB"
+		(property "Footprint" "entropy:SK68XX-SIDE"
 			(at 200.66 87.63 0)
 			(effects
 				(font
@@ -4052,7 +3896,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://cdn.sparkfun.com/datasheets/Components/LED/COM-12877.pdf"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/adafruit-industries-llc/4691/13170955"
 			(at 199.39 89.535 0)
 			(effects
 				(font
@@ -4110,7 +3954,7 @@
 				)
 			)
 		)
-		(property "Value" "APA-106-F5"
+		(property "Value" "SK68XX-SIDE"
 			(at 217.17 73.6914 0)
 			(effects
 				(font
@@ -4118,7 +3962,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm-4_RGB"
+		(property "Footprint" "entropy:SK68XX-SIDE"
 			(at 228.6 87.63 0)
 			(effects
 				(font
@@ -4128,7 +3972,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://cdn.sparkfun.com/datasheets/Components/LED/COM-12877.pdf"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/adafruit-industries-llc/4691/13170955"
 			(at 227.33 89.535 0)
 			(effects
 				(font
@@ -4186,7 +4030,7 @@
 				)
 			)
 		)
-		(property "Value" "APA-106-F5"
+		(property "Value" "SK68XX-SIDE"
 			(at 105.41 73.6914 0)
 			(effects
 				(font
@@ -4194,7 +4038,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm-4_RGB"
+		(property "Footprint" "entropy:SK68XX-SIDE"
 			(at 116.84 87.63 0)
 			(effects
 				(font
@@ -4204,7 +4048,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://cdn.sparkfun.com/datasheets/Components/LED/COM-12877.pdf"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/adafruit-industries-llc/4691/13170955"
 			(at 115.57 89.535 0)
 			(effects
 				(font
@@ -4398,7 +4242,7 @@
 				)
 			)
 		)
-		(property "Value" "APA-106-F5"
+		(property "Value" "SK68XX-SIDE"
 			(at 161.29 138.4614 0)
 			(effects
 				(font
@@ -4406,7 +4250,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm-4_RGB"
+		(property "Footprint" "entropy:SK68XX-SIDE"
 			(at 172.72 152.4 0)
 			(effects
 				(font
@@ -4416,7 +4260,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://cdn.sparkfun.com/datasheets/Components/LED/COM-12877.pdf"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/adafruit-industries-llc/4691/13170955"
 			(at 171.45 154.305 0)
 			(effects
 				(font
@@ -4610,7 +4454,7 @@
 				)
 			)
 		)
-		(property "Value" "APA-106-F5"
+		(property "Value" "SK68XX-SIDE"
 			(at 161.29 73.6914 0)
 			(effects
 				(font
@@ -4618,7 +4462,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm-4_RGB"
+		(property "Footprint" "entropy:SK68XX-SIDE"
 			(at 172.72 87.63 0)
 			(effects
 				(font
@@ -4628,7 +4472,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://cdn.sparkfun.com/datasheets/Components/LED/COM-12877.pdf"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/adafruit-industries-llc/4691/13170955"
 			(at 171.45 89.535 0)
 			(effects
 				(font
@@ -4686,7 +4530,7 @@
 				)
 			)
 		)
-		(property "Value" "APA-106-F5"
+		(property "Value" "SK68XX-SIDE"
 			(at 214.63 40.6714 0)
 			(effects
 				(font
@@ -4694,7 +4538,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm-4_RGB"
+		(property "Footprint" "entropy:SK68XX-SIDE"
 			(at 203.2 54.61 0)
 			(effects
 				(font
@@ -4704,7 +4548,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://cdn.sparkfun.com/datasheets/Components/LED/COM-12877.pdf"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/adafruit-industries-llc/4691/13170955"
 			(at 204.47 56.515 0)
 			(effects
 				(font
@@ -4830,7 +4674,7 @@
 				)
 			)
 		)
-		(property "Value" "APA-106-F5"
+		(property "Value" "SK68XX-SIDE"
 			(at 158.75 40.6714 0)
 			(effects
 				(font
@@ -4838,7 +4682,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm-4_RGB"
+		(property "Footprint" "entropy:SK68XX-SIDE"
 			(at 147.32 54.61 0)
 			(effects
 				(font
@@ -4848,7 +4692,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://cdn.sparkfun.com/datasheets/Components/LED/COM-12877.pdf"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/adafruit-industries-llc/4691/13170955"
 			(at 148.59 56.515 0)
 			(effects
 				(font
@@ -4906,7 +4750,7 @@
 				)
 			)
 		)
-		(property "Value" "APA-106-F5"
+		(property "Value" "SK68XX-SIDE"
 			(at 133.35 73.6914 0)
 			(effects
 				(font
@@ -4914,7 +4758,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm-4_RGB"
+		(property "Footprint" "entropy:SK68XX-SIDE"
 			(at 144.78 87.63 0)
 			(effects
 				(font
@@ -4924,7 +4768,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://cdn.sparkfun.com/datasheets/Components/LED/COM-12877.pdf"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/adafruit-industries-llc/4691/13170955"
 			(at 143.51 89.535 0)
 			(effects
 				(font
@@ -4982,7 +4826,7 @@
 				)
 			)
 		)
-		(property "Value" "APA-106-F5"
+		(property "Value" "SK68XX-SIDE"
 			(at 186.69 105.4414 0)
 			(effects
 				(font
@@ -4990,7 +4834,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm-4_RGB"
+		(property "Footprint" "entropy:SK68XX-SIDE"
 			(at 175.26 119.38 0)
 			(effects
 				(font
@@ -5000,7 +4844,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://cdn.sparkfun.com/datasheets/Components/LED/COM-12877.pdf"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/adafruit-industries-llc/4691/13170955"
 			(at 176.53 121.285 0)
 			(effects
 				(font
@@ -5058,7 +4902,7 @@
 				)
 			)
 		)
-		(property "Value" "APA-106-F5"
+		(property "Value" "SK68XX-SIDE"
 			(at 217.17 138.4614 0)
 			(effects
 				(font
@@ -5066,7 +4910,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm-4_RGB"
+		(property "Footprint" "entropy:SK68XX-SIDE"
 			(at 228.6 152.4 0)
 			(effects
 				(font
@@ -5076,7 +4920,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://cdn.sparkfun.com/datasheets/Components/LED/COM-12877.pdf"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/adafruit-industries-llc/4691/13170955"
 			(at 227.33 154.305 0)
 			(effects
 				(font
@@ -5474,7 +5318,7 @@
 				)
 			)
 		)
-		(property "Value" "APA-106-F5"
+		(property "Value" "SK68XX-SIDE"
 			(at 242.57 105.4414 0)
 			(effects
 				(font
@@ -5482,7 +5326,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm-4_RGB"
+		(property "Footprint" "entropy:SK68XX-SIDE"
 			(at 231.14 119.38 0)
 			(effects
 				(font
@@ -5492,7 +5336,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://cdn.sparkfun.com/datasheets/Components/LED/COM-12877.pdf"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/adafruit-industries-llc/4691/13170955"
 			(at 232.41 121.285 0)
 			(effects
 				(font
@@ -5618,7 +5462,7 @@
 				)
 			)
 		)
-		(property "Value" "APA-106-F5"
+		(property "Value" "SK68XX-SIDE"
 			(at 130.81 40.6714 0)
 			(effects
 				(font
@@ -5626,7 +5470,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm-4_RGB"
+		(property "Footprint" "entropy:SK68XX-SIDE"
 			(at 119.38 54.61 0)
 			(effects
 				(font
@@ -5636,7 +5480,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://cdn.sparkfun.com/datasheets/Components/LED/COM-12877.pdf"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/adafruit-industries-llc/4691/13170955"
 			(at 120.65 56.515 0)
 			(effects
 				(font
@@ -5694,7 +5538,7 @@
 				)
 			)
 		)
-		(property "Value" "APA-106-F5"
+		(property "Value" "SK68XX-SIDE"
 			(at 77.47 73.6914 0)
 			(effects
 				(font
@@ -5702,7 +5546,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm-4_RGB"
+		(property "Footprint" "entropy:SK68XX-SIDE"
 			(at 88.9 87.63 0)
 			(effects
 				(font
@@ -5712,7 +5556,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://cdn.sparkfun.com/datasheets/Components/LED/COM-12877.pdf"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/adafruit-industries-llc/4691/13170955"
 			(at 87.63 89.535 0)
 			(effects
 				(font
