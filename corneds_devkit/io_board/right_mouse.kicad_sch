@@ -1015,7 +1015,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_Gateron_LowProfile_HotSwap_THT"
+		(property "Footprint" "key-switches:SW_Gateron_LowProfile_HotSwap_PTH"
 			(at 163.83 76.2 0)
 			(effects
 				(font

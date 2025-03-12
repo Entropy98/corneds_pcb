@@ -583,6 +583,16 @@
 	)
 	(wire
 		(pts
+			(xy 168.91 69.85) (xy 171.45 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2e72b41d-2746-4eeb-9509-3a910e94ff46")
+	)
+	(wire
+		(pts
 			(xy 153.67 60.96) (xy 153.67 58.42)
 		)
 		(stroke
@@ -837,6 +847,28 @@
 			)
 		)
 	)
+	(global_label "lclick_led_do"
+		(shape input)
+		(at 171.45 69.85 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ee436cb6-2537-4467-8bc8-e4cc7afb761b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 186.7117 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(symbol
 		(lib_id "LED:APA-106-F5")
 		(at 161.29 72.39 0)
@@ -939,7 +971,7 @@
 				)
 			)
 		)
-		(property "Footprint" "key-switches:SW_Gateron_LowProfile_HotSwap_THT"
+		(property "Footprint" "key-switches:SW_Gateron_LowProfile_HotSwap_PTH"
 			(at 161.29 55.88 0)
 			(effects
 				(font
