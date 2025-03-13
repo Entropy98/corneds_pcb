@@ -882,6 +882,16 @@
 	)
 	(wire
 		(pts
+			(xy 80.01 48.26) (xy 92.71 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0c27e376-e75d-4507-869b-f69e247fff9c")
+	)
+	(wire
+		(pts
 			(xy 203.2 104.14) (xy 203.2 71.12)
 		)
 		(stroke
@@ -942,16 +952,6 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 48.26) (xy 80.01 48.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "158a3d19-8b39-470e-9442-784bb5c4338a")
-	)
-	(wire
-		(pts
 			(xy 128.27 91.44) (xy 100.33 91.44)
 		)
 		(stroke
@@ -972,16 +972,6 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 48.26) (xy 52.07 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1ac21ffd-29c9-414c-888e-a5d056d3ced5")
-	)
-	(wire
-		(pts
 			(xy 72.39 156.21) (xy 46.99 156.21)
 		)
 		(stroke
@@ -989,16 +979,6 @@
 			(type default)
 		)
 		(uuid "1b3c882b-4bc6-49fa-9a43-f584f8225dc3")
-	)
-	(wire
-		(pts
-			(xy 52.07 146.05) (xy 64.77 146.05)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1c4c9c0d-63a5-46a3-9bc5-d15121a8e5fa")
 	)
 	(wire
 		(pts
@@ -1022,6 +1002,26 @@
 	)
 	(wire
 		(pts
+			(xy 191.77 48.26) (xy 204.47 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "246f7548-4021-4393-9e44-b613f609aa05")
+	)
+	(wire
+		(pts
+			(xy 43.18 81.28) (xy 64.77 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2587a033-8b53-442e-b79b-5ea3f1b521ce")
+	)
+	(wire
+		(pts
 			(xy 60.96 135.89) (xy 60.96 104.14)
 		)
 		(stroke
@@ -1029,6 +1029,16 @@
 			(type default)
 		)
 		(uuid "25a97bdd-7a01-4976-acc9-6c6afe8d02fe")
+	)
+	(wire
+		(pts
+			(xy 135.89 48.26) (xy 148.59 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "263f56ea-e32b-4c9a-af5e-e1e6aefc9508")
 	)
 	(wire
 		(pts
@@ -1059,6 +1069,16 @@
 			(type default)
 		)
 		(uuid "29ee2207-56bc-45f7-88c4-de265b862c41")
+	)
+	(wire
+		(pts
+			(xy 43.18 113.03) (xy 64.77 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2a63e1da-8b3e-46be-b136-3e3b40575974")
 	)
 	(wire
 		(pts
@@ -1139,6 +1159,16 @@
 			(type default)
 		)
 		(uuid "387f3021-ab29-4d4e-918f-f4fc0f47e352")
+	)
+	(wire
+		(pts
+			(xy 224.79 48.26) (xy 219.71 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3ec93762-ed11-41f4-92ab-01f4dc37a3c8")
 	)
 	(wire
 		(pts
@@ -1262,6 +1292,16 @@
 	)
 	(wire
 		(pts
+			(xy 58.42 48.26) (xy 64.77 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5359445b-cf0c-4100-9cc7-c3812dc6d949")
+	)
+	(wire
+		(pts
 			(xy 105.41 127) (xy 133.35 127)
 		)
 		(stroke
@@ -1299,6 +1339,16 @@
 			(type default)
 		)
 		(uuid "59f45b93-7e80-4227-9a01-15cd800b5c76")
+	)
+	(wire
+		(pts
+			(xy 224.79 146.05) (xy 224.79 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5c361f4a-2ce9-450c-8c44-e5c0af44cc85")
 	)
 	(wire
 		(pts
@@ -1472,16 +1522,6 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 81.28) (xy 224.79 113.03)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6cd1caa0-4153-4a7c-83be-796d61af20a9")
-	)
-	(wire
-		(pts
 			(xy 77.47 30.48) (xy 105.41 30.48)
 		)
 		(stroke
@@ -1489,6 +1529,16 @@
 			(type default)
 		)
 		(uuid "6e2e13c5-f49d-4ac8-ac02-c62dd61b6e7c")
+	)
+	(wire
+		(pts
+			(xy 224.79 81.28) (xy 224.79 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6e39753f-33a8-4497-9c9b-13799bbdfb40")
 	)
 	(wire
 		(pts
@@ -1549,6 +1599,16 @@
 			(type default)
 		)
 		(uuid "753a2efb-77f8-4f9f-a628-c207b7bb388e")
+	)
+	(wire
+		(pts
+			(xy 107.95 48.26) (xy 120.65 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "759c6c69-918b-4c37-9e58-ab7fdf43b2e9")
 	)
 	(wire
 		(pts
@@ -1852,16 +1912,6 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 48.26) (xy 219.71 48.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9d761c1c-7c7c-430f-90cf-c1f377d0558f")
-	)
-	(wire
-		(pts
 			(xy 92.71 81.28) (xy 80.01 81.28)
 		)
 		(stroke
@@ -1982,16 +2032,6 @@
 	)
 	(wire
 		(pts
-			(xy 120.65 48.26) (xy 107.95 48.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a842dac1-aed7-445a-b885-5c25d820b250")
-	)
-	(wire
-		(pts
 			(xy 176.53 81.28) (xy 163.83 81.28)
 		)
 		(stroke
@@ -2072,16 +2112,6 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 113.03) (xy 52.07 146.05)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "af54a7a0-bae9-4a55-9342-62681a8bdf32")
-	)
-	(wire
-		(pts
 			(xy 161.29 95.25) (xy 189.23 95.25)
 		)
 		(stroke
@@ -2089,6 +2119,16 @@
 			(type default)
 		)
 		(uuid "b1172080-521f-4d6d-8880-ce1b32fb6476")
+	)
+	(wire
+		(pts
+			(xy 163.83 48.26) (xy 176.53 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b2086701-65b6-4880-982f-1b21a84c0de3")
 	)
 	(wire
 		(pts
@@ -2132,16 +2172,6 @@
 	)
 	(wire
 		(pts
-			(xy 64.77 48.26) (xy 52.07 48.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bd83c3f9-c27c-4546-a602-6640823d7ec1")
-	)
-	(wire
-		(pts
 			(xy 184.15 76.2) (xy 212.09 76.2)
 		)
 		(stroke
@@ -2149,16 +2179,6 @@
 			(type default)
 		)
 		(uuid "c09e3347-9d7d-4a14-aa95-5890dc498623")
-	)
-	(wire
-		(pts
-			(xy 176.53 48.26) (xy 163.83 48.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c35e0853-b0ab-421a-a6b3-3dc734715062")
 	)
 	(wire
 		(pts
@@ -2189,16 +2209,6 @@
 			(type default)
 		)
 		(uuid "c9aa5084-1e48-47db-9275-3ce6d55aacb4")
-	)
-	(wire
-		(pts
-			(xy 148.59 48.26) (xy 135.89 48.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "caef2eb7-0ac2-415f-b5bf-5f2ba5923bac")
 	)
 	(wire
 		(pts
@@ -2249,6 +2259,16 @@
 			(type default)
 		)
 		(uuid "d26355f9-02eb-4dc6-b8db-2c455b8eb8de")
+	)
+	(wire
+		(pts
+			(xy 135.89 146.05) (xy 224.79 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d34dfcad-b453-41dd-bcd4-b96e67c5d9a7")
 	)
 	(wire
 		(pts
@@ -2319,26 +2339,6 @@
 			(type default)
 		)
 		(uuid "d7f94470-ebe1-4c62-82f0-972ae3b55a5a")
-	)
-	(wire
-		(pts
-			(xy 135.89 146.05) (xy 138.43 146.05)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d88093ab-c6f2-496c-be22-319f34745959")
-	)
-	(wire
-		(pts
-			(xy 52.07 81.28) (xy 64.77 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d8aa25b1-541e-440d-9456-6719511e7987")
 	)
 	(wire
 		(pts
@@ -2429,16 +2429,6 @@
 			(type default)
 		)
 		(uuid "ea8f9fcf-f19f-4a0a-8c6a-435de6f02fd6")
-	)
-	(wire
-		(pts
-			(xy 204.47 48.26) (xy 191.77 48.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "eabeeb77-cb82-44c4-8457-f7ba004c4cc7")
 	)
 	(wire
 		(pts
@@ -2570,16 +2560,6 @@
 		)
 		(uuid "fdd7e0e9-c9f5-423d-9fe0-a6e8d934a622")
 	)
-	(wire
-		(pts
-			(xy 64.77 113.03) (xy 52.07 113.03)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ff03b3a5-48b3-4444-b626-2d9a174e0bd0")
-	)
 	(global_label "ROW3R"
 		(shape input)
 		(at 40.64 127 180)
@@ -2692,22 +2672,44 @@
 	)
 	(global_label "rclick_led_di"
 		(shape input)
-		(at 138.43 146.05 0)
+		(at 43.18 81.28 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "54353c37-e979-4c0f-b91f-dd18768e68c1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 153.2685 146.05 0)
+			(at 28.3415 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "rclick_led_do"
+		(shape input)
+		(at 43.18 113.03 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "5e416cc4-58bc-417e-80cf-45cbf8b26fd3")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 27.7973 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -2868,22 +2870,22 @@
 	)
 	(global_label "right_led_di"
 		(shape input)
-		(at 220.98 48.26 0)
+		(at 58.42 48.26 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "eb35d2c8-ac4f-4b25-996a-fb145c921d1d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 234.9717 48.26 0)
+			(at 44.4283 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -3167,16 +3169,14 @@
 	(symbol
 		(lib_id "LED:APA-106-F5")
 		(at 72.39 115.57 0)
-		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "1a6e76d1-c05a-4403-a392-6545a92b7ee1")
 		(property "Reference" "D79"
-			(at 59.69 106.7114 0)
+			(at 85.09 106.7114 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3184,7 +3184,7 @@
 			)
 		)
 		(property "Value" "SK68XX-SIDE"
-			(at 59.69 109.2514 0)
+			(at 85.09 109.2514 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3192,7 +3192,7 @@
 			)
 		)
 		(property "Footprint" "entropy:SK68XX-SIDE"
-			(at 71.12 123.19 0)
+			(at 73.66 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3202,7 +3202,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.digikey.com/en/products/detail/adafruit-industries-llc/4691/13170955"
-			(at 69.85 125.095 0)
+			(at 74.93 125.095 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3313,6 +3313,7 @@
 	(symbol
 		(lib_id "LED:APA-106-F5")
 		(at 100.33 148.59 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3320,7 +3321,7 @@
 		(dnp no)
 		(uuid "1dbe4eba-4710-4820-867a-0d926f71cf3e")
 		(property "Reference" "D72"
-			(at 113.03 139.7314 0)
+			(at 87.63 139.7314 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3328,7 +3329,7 @@
 			)
 		)
 		(property "Value" "SK68XX-SIDE"
-			(at 113.03 142.2714 0)
+			(at 87.63 142.2714 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3336,7 +3337,7 @@
 			)
 		)
 		(property "Footprint" "entropy:SK68XX-SIDE"
-			(at 101.6 156.21 0)
+			(at 99.06 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3346,7 +3347,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.digikey.com/en/products/detail/adafruit-industries-llc/4691/13170955"
-			(at 102.87 158.115 0)
+			(at 97.79 158.115 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3526,6 +3527,7 @@
 	(symbol
 		(lib_id "LED:APA-106-F5")
 		(at 184.15 83.82 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3533,7 +3535,7 @@
 		(dnp no)
 		(uuid "2a29bbd4-5ce0-448e-bbac-0600124db073")
 		(property "Reference" "D50"
-			(at 196.85 74.9614 0)
+			(at 171.45 74.9614 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3541,7 +3543,7 @@
 			)
 		)
 		(property "Value" "SK68XX-SIDE"
-			(at 196.85 77.5014 0)
+			(at 171.45 77.5014 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3549,7 +3551,7 @@
 			)
 		)
 		(property "Footprint" "entropy:SK68XX-SIDE"
-			(at 185.42 91.44 0)
+			(at 182.88 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3559,7 +3561,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.digikey.com/en/products/detail/adafruit-industries-llc/4691/13170955"
-			(at 186.69 93.345 0)
+			(at 181.61 93.345 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3601,6 +3603,7 @@
 	(symbol
 		(lib_id "LED:APA-106-F5")
 		(at 212.09 83.82 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3608,7 +3611,7 @@
 		(dnp no)
 		(uuid "2ab38b2e-9f37-4065-b7f6-ff3ac092a8c2")
 		(property "Reference" "D28"
-			(at 224.79 74.9614 0)
+			(at 199.39 74.9614 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3616,7 +3619,7 @@
 			)
 		)
 		(property "Value" "SK68XX-SIDE"
-			(at 224.79 77.5014 0)
+			(at 199.39 77.5014 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3624,7 +3627,7 @@
 			)
 		)
 		(property "Footprint" "entropy:SK68XX-SIDE"
-			(at 213.36 91.44 0)
+			(at 210.82 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3634,7 +3637,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.digikey.com/en/products/detail/adafruit-industries-llc/4691/13170955"
-			(at 214.63 93.345 0)
+			(at 209.55 93.345 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3676,16 +3679,14 @@
 	(symbol
 		(lib_id "LED:APA-106-F5")
 		(at 128.27 115.57 0)
-		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "3610f7c7-97c2-4385-85d8-733a98e36158")
 		(property "Reference" "D63"
-			(at 115.57 106.7114 0)
+			(at 140.97 106.7114 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3693,7 +3694,7 @@
 			)
 		)
 		(property "Value" "SK68XX-SIDE"
-			(at 115.57 109.2514 0)
+			(at 140.97 109.2514 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3701,7 +3702,7 @@
 			)
 		)
 		(property "Footprint" "entropy:SK68XX-SIDE"
-			(at 127 123.19 0)
+			(at 129.54 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3711,7 +3712,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.digikey.com/en/products/detail/adafruit-industries-llc/4691/13170955"
-			(at 125.73 125.095 0)
+			(at 130.81 125.095 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3753,6 +3754,7 @@
 	(symbol
 		(lib_id "LED:APA-106-F5")
 		(at 72.39 148.59 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3760,7 +3762,7 @@
 		(dnp no)
 		(uuid "3baf2e6e-69a8-4676-842f-d3fefa726dcc")
 		(property "Reference" "D80"
-			(at 85.09 139.7314 0)
+			(at 59.69 139.7314 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3768,7 +3770,7 @@
 			)
 		)
 		(property "Value" "SK68XX-SIDE"
-			(at 85.09 142.2714 0)
+			(at 59.69 142.2714 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3776,7 +3778,7 @@
 			)
 		)
 		(property "Footprint" "entropy:SK68XX-SIDE"
-			(at 73.66 156.21 0)
+			(at 71.12 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3786,7 +3788,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.digikey.com/en/products/detail/adafruit-industries-llc/4691/13170955"
-			(at 74.93 158.115 0)
+			(at 69.85 158.115 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3828,6 +3830,7 @@
 	(symbol
 		(lib_id "LED:APA-106-F5")
 		(at 72.39 83.82 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3835,7 +3838,7 @@
 		(dnp no)
 		(uuid "462b6ecf-09ee-4eab-adae-c5a478fd2426")
 		(property "Reference" "D78"
-			(at 85.09 74.9614 0)
+			(at 59.69 74.9614 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3843,7 +3846,7 @@
 			)
 		)
 		(property "Value" "SK68XX-SIDE"
-			(at 85.09 77.5014 0)
+			(at 59.69 77.5014 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3851,7 +3854,7 @@
 			)
 		)
 		(property "Footprint" "entropy:SK68XX-SIDE"
-			(at 73.66 91.44 0)
+			(at 71.12 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3861,7 +3864,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.digikey.com/en/products/detail/adafruit-industries-llc/4691/13170955"
-			(at 74.93 93.345 0)
+			(at 69.85 93.345 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4041,16 +4044,14 @@
 	(symbol
 		(lib_id "LED:APA-106-F5")
 		(at 128.27 50.8 0)
-		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "5a447460-f964-465d-a440-a97154bc81e8")
 		(property "Reference" "D61"
-			(at 115.57 41.9414 0)
+			(at 140.97 41.9414 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4058,7 +4059,7 @@
 			)
 		)
 		(property "Value" "SK68XX-SIDE"
-			(at 115.57 44.4814 0)
+			(at 140.97 44.4814 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4066,7 +4067,7 @@
 			)
 		)
 		(property "Footprint" "entropy:SK68XX-SIDE"
-			(at 127 58.42 0)
+			(at 129.54 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4076,7 +4077,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.digikey.com/en/products/detail/adafruit-industries-llc/4691/13170955"
-			(at 125.73 60.325 0)
+			(at 130.81 60.325 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4256,16 +4257,14 @@
 	(symbol
 		(lib_id "LED:APA-106-F5")
 		(at 72.39 50.8 0)
-		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "61b4a8dd-00ab-431c-a40a-1285f498b5ca")
 		(property "Reference" "D77"
-			(at 59.69 41.9414 0)
+			(at 85.09 41.9414 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4273,7 +4272,7 @@
 			)
 		)
 		(property "Value" "SK68XX-SIDE"
-			(at 59.69 44.4814 0)
+			(at 85.09 44.4814 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4281,7 +4280,7 @@
 			)
 		)
 		(property "Footprint" "entropy:SK68XX-SIDE"
-			(at 71.12 58.42 0)
+			(at 73.66 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4291,7 +4290,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.digikey.com/en/products/detail/adafruit-industries-llc/4691/13170955"
-			(at 69.85 60.325 0)
+			(at 74.93 60.325 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4333,16 +4332,14 @@
 	(symbol
 		(lib_id "LED:APA-106-F5")
 		(at 156.21 50.8 0)
-		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "72bab669-5d9d-4aad-9964-f4ba26bd05a2")
 		(property "Reference" "D55"
-			(at 143.51 41.9414 0)
+			(at 168.91 41.9414 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4350,7 +4347,7 @@
 			)
 		)
 		(property "Value" "SK68XX-SIDE"
-			(at 143.51 44.4814 0)
+			(at 168.91 44.4814 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4358,7 +4355,7 @@
 			)
 		)
 		(property "Footprint" "entropy:SK68XX-SIDE"
-			(at 154.94 58.42 0)
+			(at 157.48 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4368,7 +4365,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.digikey.com/en/products/detail/adafruit-industries-llc/4691/13170955"
-			(at 153.67 60.325 0)
+			(at 158.75 60.325 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4410,16 +4407,14 @@
 	(symbol
 		(lib_id "LED:APA-106-F5")
 		(at 100.33 115.57 0)
-		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "7c56c252-3c03-420c-ba58-dc38be775706")
 		(property "Reference" "D71"
-			(at 87.63 106.7114 0)
+			(at 113.03 106.7114 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4427,7 +4422,7 @@
 			)
 		)
 		(property "Value" "SK68XX-SIDE"
-			(at 87.63 109.2514 0)
+			(at 113.03 109.2514 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4435,7 +4430,7 @@
 			)
 		)
 		(property "Footprint" "entropy:SK68XX-SIDE"
-			(at 99.06 123.19 0)
+			(at 101.6 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4445,7 +4440,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.digikey.com/en/products/detail/adafruit-industries-llc/4691/13170955"
-			(at 97.79 125.095 0)
+			(at 102.87 125.095 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4487,16 +4482,14 @@
 	(symbol
 		(lib_id "LED:APA-106-F5")
 		(at 212.09 50.8 0)
-		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "7e77e305-cfeb-4fb5-86cf-0b2d549f474e")
 		(property "Reference" "D26"
-			(at 199.39 41.9414 0)
+			(at 224.79 41.9414 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4504,7 +4497,7 @@
 			)
 		)
 		(property "Value" "SK68XX-SIDE"
-			(at 199.39 44.4814 0)
+			(at 224.79 44.4814 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4512,7 +4505,7 @@
 			)
 		)
 		(property "Footprint" "entropy:SK68XX-SIDE"
-			(at 210.82 58.42 0)
+			(at 213.36 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4522,7 +4515,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.digikey.com/en/products/detail/adafruit-industries-llc/4691/13170955"
-			(at 209.55 60.325 0)
+			(at 214.63 60.325 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4840,16 +4833,14 @@
 	(symbol
 		(lib_id "LED:APA-106-F5")
 		(at 184.15 115.57 0)
-		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "98b52df2-ab44-4c5d-8f1b-55f3af0bb80a")
 		(property "Reference" "D51"
-			(at 171.45 106.7114 0)
+			(at 196.85 106.7114 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4857,7 +4848,7 @@
 			)
 		)
 		(property "Value" "SK68XX-SIDE"
-			(at 171.45 109.2514 0)
+			(at 196.85 109.2514 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4865,7 +4856,7 @@
 			)
 		)
 		(property "Footprint" "entropy:SK68XX-SIDE"
-			(at 182.88 123.19 0)
+			(at 185.42 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4875,7 +4866,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.digikey.com/en/products/detail/adafruit-industries-llc/4691/13170955"
-			(at 181.61 125.095 0)
+			(at 186.69 125.095 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4917,16 +4908,14 @@
 	(symbol
 		(lib_id "LED:APA-106-F5")
 		(at 100.33 50.8 0)
-		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "a1ba5e01-e6db-44bc-8227-8a6d4234190d")
 		(property "Reference" "D69"
-			(at 87.63 41.9414 0)
+			(at 113.03 41.9414 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4934,7 +4923,7 @@
 			)
 		)
 		(property "Value" "SK68XX-SIDE"
-			(at 87.63 44.4814 0)
+			(at 113.03 44.4814 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4942,7 +4931,7 @@
 			)
 		)
 		(property "Footprint" "entropy:SK68XX-SIDE"
-			(at 99.06 58.42 0)
+			(at 101.6 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4952,7 +4941,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.digikey.com/en/products/detail/adafruit-industries-llc/4691/13170955"
-			(at 97.79 60.325 0)
+			(at 102.87 60.325 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4994,6 +4983,7 @@
 	(symbol
 		(lib_id "LED:APA-106-F5")
 		(at 128.27 83.82 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5001,7 +4991,7 @@
 		(dnp no)
 		(uuid "ac9a299c-dff9-4a70-a93e-d900776b6be5")
 		(property "Reference" "D62"
-			(at 140.97 74.9614 0)
+			(at 115.57 74.9614 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5009,7 +4999,7 @@
 			)
 		)
 		(property "Value" "SK68XX-SIDE"
-			(at 140.97 77.5014 0)
+			(at 115.57 77.5014 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5017,7 +5007,7 @@
 			)
 		)
 		(property "Footprint" "entropy:SK68XX-SIDE"
-			(at 129.54 91.44 0)
+			(at 127 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5027,7 +5017,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.digikey.com/en/products/detail/adafruit-industries-llc/4691/13170955"
-			(at 130.81 93.345 0)
+			(at 125.73 93.345 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5069,16 +5059,14 @@
 	(symbol
 		(lib_id "LED:APA-106-F5")
 		(at 212.09 115.57 0)
-		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "b3ad71d4-6845-4b6c-b327-723f2fb20437")
 		(property "Reference" "D30"
-			(at 199.39 106.7114 0)
+			(at 224.79 106.7114 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5086,7 +5074,7 @@
 			)
 		)
 		(property "Value" "SK68XX-SIDE"
-			(at 199.39 109.2514 0)
+			(at 224.79 109.2514 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5094,7 +5082,7 @@
 			)
 		)
 		(property "Footprint" "entropy:SK68XX-SIDE"
-			(at 210.82 123.19 0)
+			(at 213.36 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5104,7 +5092,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.digikey.com/en/products/detail/adafruit-industries-llc/4691/13170955"
-			(at 209.55 125.095 0)
+			(at 214.63 125.095 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5146,6 +5134,7 @@
 	(symbol
 		(lib_id "LED:APA-106-F5")
 		(at 156.21 83.82 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5153,7 +5142,7 @@
 		(dnp no)
 		(uuid "b44d00e5-18e0-492e-aa78-229eecdac7d4")
 		(property "Reference" "D56"
-			(at 168.91 74.9614 0)
+			(at 143.51 74.9614 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5161,7 +5150,7 @@
 			)
 		)
 		(property "Value" "SK68XX-SIDE"
-			(at 168.91 77.5014 0)
+			(at 143.51 77.5014 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5169,7 +5158,7 @@
 			)
 		)
 		(property "Footprint" "entropy:SK68XX-SIDE"
-			(at 157.48 91.44 0)
+			(at 154.94 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5179,7 +5168,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.digikey.com/en/products/detail/adafruit-industries-llc/4691/13170955"
-			(at 158.75 93.345 0)
+			(at 153.67 93.345 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5290,6 +5279,7 @@
 	(symbol
 		(lib_id "LED:APA-106-F5")
 		(at 128.27 148.59 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5297,7 +5287,7 @@
 		(dnp no)
 		(uuid "bf62cddd-e04e-4836-8ae0-0cfe03410639")
 		(property "Reference" "D64"
-			(at 140.97 139.7314 0)
+			(at 115.57 139.7314 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5305,7 +5295,7 @@
 			)
 		)
 		(property "Value" "SK68XX-SIDE"
-			(at 140.97 142.2714 0)
+			(at 115.57 142.2714 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5313,7 +5303,7 @@
 			)
 		)
 		(property "Footprint" "entropy:SK68XX-SIDE"
-			(at 129.54 156.21 0)
+			(at 127 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5323,7 +5313,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.digikey.com/en/products/detail/adafruit-industries-llc/4691/13170955"
-			(at 130.81 158.115 0)
+			(at 125.73 158.115 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5434,6 +5424,7 @@
 	(symbol
 		(lib_id "LED:APA-106-F5")
 		(at 100.33 83.82 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5441,7 +5432,7 @@
 		(dnp no)
 		(uuid "c3d90857-b387-4719-b6ab-983b6f6319a8")
 		(property "Reference" "D70"
-			(at 113.03 74.9614 0)
+			(at 87.63 74.9614 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5449,7 +5440,7 @@
 			)
 		)
 		(property "Value" "SK68XX-SIDE"
-			(at 113.03 77.5014 0)
+			(at 87.63 77.5014 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5457,7 +5448,7 @@
 			)
 		)
 		(property "Footprint" "entropy:SK68XX-SIDE"
-			(at 101.6 91.44 0)
+			(at 99.06 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5467,7 +5458,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.digikey.com/en/products/detail/adafruit-industries-llc/4691/13170955"
-			(at 102.87 93.345 0)
+			(at 97.79 93.345 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5716,16 +5707,14 @@
 	(symbol
 		(lib_id "LED:APA-106-F5")
 		(at 156.21 115.57 0)
-		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "d040403a-ea9b-4695-9b06-946525e984f4")
 		(property "Reference" "D57"
-			(at 143.51 106.7114 0)
+			(at 168.91 106.7114 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5733,7 +5722,7 @@
 			)
 		)
 		(property "Value" "SK68XX-SIDE"
-			(at 143.51 109.2514 0)
+			(at 168.91 109.2514 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5741,7 +5730,7 @@
 			)
 		)
 		(property "Footprint" "entropy:SK68XX-SIDE"
-			(at 154.94 123.19 0)
+			(at 157.48 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5751,7 +5740,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.digikey.com/en/products/detail/adafruit-industries-llc/4691/13170955"
-			(at 153.67 125.095 0)
+			(at 158.75 125.095 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5862,16 +5851,14 @@
 	(symbol
 		(lib_id "LED:APA-106-F5")
 		(at 184.15 50.8 0)
-		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "ee06e3bb-311c-4ba3-926c-e8af6dacb0ea")
 		(property "Reference" "D49"
-			(at 171.45 41.9414 0)
+			(at 196.85 41.9414 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5879,7 +5866,7 @@
 			)
 		)
 		(property "Value" "SK68XX-SIDE"
-			(at 171.45 44.4814 0)
+			(at 196.85 44.4814 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5887,7 +5874,7 @@
 			)
 		)
 		(property "Footprint" "entropy:SK68XX-SIDE"
-			(at 182.88 58.42 0)
+			(at 185.42 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5897,7 +5884,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.digikey.com/en/products/detail/adafruit-industries-llc/4691/13170955"
-			(at 181.61 60.325 0)
+			(at 186.69 60.325 0)
 			(effects
 				(font
 					(size 1.27 1.27)
