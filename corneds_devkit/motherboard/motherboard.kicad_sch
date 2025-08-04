@@ -6,44 +6,6 @@
 	(paper "A4")
 	(lib_symbols)
 	(sheet
-		(at 102.87 22.225)
-		(size 50.165 36.195)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "059e1c33-aacf-4b81-b7d7-ea4af84b9d98")
-		(property "Sheetname" "power"
-			(at 102.87 21.5134 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "power.kicad_sch"
-			(at 102.87 59.0046 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "motherboard"
-				(path "/e62bdc8c-b7a7-4fbc-b4c4-d3d1c2fc1d9d"
-					(page "3")
-				)
-			)
-		)
-	)
-	(sheet
 		(at 26.67 22.225)
 		(size 53.975 36.195)
 		(fields_autoplaced yes)
@@ -77,44 +39,6 @@
 			(project "motherboard"
 				(path "/e62bdc8c-b7a7-4fbc-b4c4-d3d1c2fc1d9d"
 					(page "2")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 26.67 86.995)
-		(size 55.245 38.735)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "9db9def9-5944-42f5-af5f-0f9ead8841b1")
-		(property "Sheetname" "control"
-			(at 26.67 86.2834 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "control.kicad_sch"
-			(at 26.67 126.3146 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "motherboard"
-				(path "/e62bdc8c-b7a7-4fbc-b4c4-d3d1c2fc1d9d"
-					(page "4")
 				)
 			)
 		)
