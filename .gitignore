@@ -1,10 +1,27 @@
-# KiCad
-*-backups/          # auto-backup zips
+# KiCad backups / caches / locks
+*-backups/
 *.bak
 *.kicad_pcb-bak
 *.kicad_sch-bak
-fp-info-cache       # footprint cache, machine-local
-*.lck               # lock files
-_autosave-*         # autosave files
+# footprint cache, machine-local
+fp-info-cache
+# lock files
+*.lck
 ~*.lck
+# autosave
+_autosave-*
+# project-local UI state (per-user)
 *.kicad_prl
+
+# Fabrication / assembly outputs
+# gerber output folders and zips
+*_gerber/
+*.zip
+# pick-and-place position files
+*.pos
+*-pos.csv
+# JLCPCB BOM / placement exports
+*_jlc.csv
+
+# stray extracted fab download
+help/
