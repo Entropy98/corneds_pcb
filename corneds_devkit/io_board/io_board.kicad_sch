@@ -1,24 +1,30 @@
 (kicad_sch
-	(version 20231120)
+	(version 20260306)
 	(generator "eeschema")
-	(generator_version "8.0")
+	(generator_version "10.0")
 	(uuid "244b6d6b-132d-4d50-ae86-e41103b29008")
 	(paper "A4")
 	(lib_symbols)
 	(sheet
 		(at 36.83 53.34)
 		(size 63.5 52.07)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "035ff8de-23b0-4e40-a4d6-13420d9ceca3")
 		(property "Sheetname" "keys"
 			(at 36.83 52.6284 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28,6 +34,8 @@
 		)
 		(property "Sheetfile" "keys.kicad_sch"
 			(at 36.83 105.9946 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46,17 +54,23 @@
 	(sheet
 		(at 36.83 121.92)
 		(size 226.06 12.7)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "55b23cb1-8345-4327-8d3d-c7f5b0a4ff3d")
 		(property "Sheetname" "io"
 			(at 36.83 121.2084 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -66,6 +80,8 @@
 		)
 		(property "Sheetfile" "io.kicad_sch"
 			(at 36.83 135.2046 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -84,17 +100,23 @@
 	(sheet
 		(at 77.47 90.17)
 		(size 21.59 12.7)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "aa24d198-d69c-43fd-9b48-feffdb79bb14")
 		(property "Sheetname" "ctrl"
 			(at 77.47 89.4584 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -104,6 +126,8 @@
 		)
 		(property "Sheetfile" "ctrl.kicad_sch"
 			(at 77.47 103.4546 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -122,17 +146,23 @@
 	(sheet
 		(at 111.76 53.34)
 		(size 24.13 50.8)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "f7f8749d-d618-4fa3-a34a-defbc416e54b")
 		(property "Sheetname" "mouse"
 			(at 111.76 52.6284 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -142,6 +172,8 @@
 		)
 		(property "Sheetfile" "mouse.kicad_sch"
 			(at 111.76 104.7246 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -162,4 +194,5 @@
 			(page "1")
 		)
 	)
+	(embedded_fonts no)
 )

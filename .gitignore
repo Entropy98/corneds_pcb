@@ -1,7 +1,10 @@
-*/corneds-backups/*
-*.gbr
-*.zip
-*.gbrjob
-*.drl
-*/build/*
-.cache
+# KiCad
+*-backups/          # auto-backup zips
+*.bak
+*.kicad_pcb-bak
+*.kicad_sch-bak
+fp-info-cache       # footprint cache, machine-local
+*.lck               # lock files
+_autosave-*         # autosave files
+~*.lck
+*.kicad_prl
